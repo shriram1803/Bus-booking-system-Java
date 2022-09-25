@@ -1,3 +1,19 @@
 # Bus-booking-system-Java
 
-->It's a simple Bus Booking app made using Java Swings and MySQL Database.
+A basic Bus Ticket Booking Application developed Java Swing Application backed by MySQL database in the backend
+
+Admin Functionalities:-
+    -> Add a new Bus
+    -> View all Bus Details
+    -> Edit Bus Details
+    -> Delete a Bus
+    -> Edit Ticket Prices
+    -> Block Tickets
+
+Client Functionalities:-
+    -> Sign Up
+    -> Sign In
+    -> Edit Personal Details
+    -> Book a Ticket
+    -> View Booked Tickets
+    -> Cancel Tickets
